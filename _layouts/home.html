@@ -3,8 +3,8 @@
 
 {% for post in site.posts %}
 <a href="{{ post.url | prepend: site.baseurl }}">
-	{% if page['Featured image'] %}
-		{{ page['Featured image']}}
+	{% if page['Featured'] %}
+		{{ page['Featured'] }}
 	{% else %}
 	    <p>{{ post.title }}</p>
 
