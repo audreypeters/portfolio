@@ -3,6 +3,13 @@
 
 {% for post in site.posts %}
 <a href="{{ post.url | prepend: site.baseurl }}">
-	<p>{{ post.title }}</p>
+	{% if page['Featured image'] %}
+		{{ page['Featured image']}}
+	{% else %}
+	    <p>{{ post.title }}</p>
+
+	{% endif %}
+
+
 </a>
 {% endfor %}
