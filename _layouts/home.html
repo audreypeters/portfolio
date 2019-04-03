@@ -4,14 +4,9 @@
 {% for post in site.posts %}
 <a href="{{ post.url | prepend: site.baseurl }}">
 	{% if post['Featured'] %}
-		{{ post['Featured'] }}
-		Yes
+		<img src="{{ post['Featured'] }}" alt="{{ post.title }}">
 	{% else %}
 	    <p>{{ post.title }}</p>
-	    No
-
 	{% endif %}
-
-
 </a>
 {% endfor %}
