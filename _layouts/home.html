@@ -5,8 +5,10 @@
 <a href="{{ post.url | prepend: site.baseurl }}">
 	{% if post['Featured'] %}
 		{{ post['Featured'] }}
+		Yes
 	{% else %}
 	    <p>{{ post.title }}</p>
+	    No
 
 	{% endif %}
 
