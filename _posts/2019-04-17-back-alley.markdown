@@ -1,7 +1,7 @@
 ---
 title: back alley
 date: 2019-04-17 15:27:00 Z
-Featured image: "/uploads/backalleycover.jpg"
+Featured: 
 ---
 
 ## Magazine/Editorial Design
