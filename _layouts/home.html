@@ -1,12 +1,60 @@
+<!DOCTYPE html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Audrey Peters Portfolio</title>
+	<link href="../style.css" rel="stylesheet">
+</head>
 
-<h1>Audrey Peters</h1>
+<body>
+	<header>
+		<nav>
+			<img src="image/ap_logo.png" class="logo">
+			<a href="/">Portfolio</a>
+			<a href="/#contact">Contact</a>
+		</nav>
+		<div class="container">
+			<h1>Audrey Peters</h1>
+		</div>
+	</header>
+	<main class="slanty">
 
-{% for post in site.posts %}
-<a href="{{ post.url | prepend: site.baseurl }}">
-	{% if post['Featured'] %}
-		<img src="{{ post['Featured'] }}" alt="{{ post.title }}">
-	{% else %}
-	    <p>{{ post.title }}</p>
-	{% endif %}
-</a>
-{% endfor %}
+	<div class="container">
+		<div class="grid">
+		<!-- 	<a href="">
+				<img src="image/backalleycover.jpg" class="art">
+			</a>
+	 -->
+
+	{% for post in site.posts %}
+	<a href="{{ post.url | prepend: site.baseurl }}">
+		{% if post['Featured'] %}
+			<img src="{{ post['Featured'] }}" alt="{{ post.title }}">
+		{% else %}
+		    <p>{{ post.title }}</p>
+		{% endif %}
+	</a>
+	{% endfor %}
+</div>
+</div>
+</main>
+
+
+<footer>
+	<div class="container">
+		<div class="grid">
+			<div class="column-one-third">
+		<img src="image/ap_photo.jpg" alt="ap_photo" class="profile">
+	</div>
+	<div class="column-two-thirds">
+		<h1>Hello!</h1>
+		<p>I’m Audrey and I’ve just completed 3 years of Graphic Design
+at Niagara College. I love design, it’s a good time. Let’s make 
+some cool stuff together! <br> Feel free to contact me at 289.686.5406 or audrey3peters@gmail.com</p>
+		<a href="https://www.instagram.com/ap.artanddesign/"><img src="image/instagram.png" class="icon"></a>
+	</div>
+	</div>
+	</div>	
+</footer>
+
+</body>
