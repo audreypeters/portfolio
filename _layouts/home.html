@@ -3,7 +3,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Audrey Peters Portfolio</title>
-	<link href="../style.css" rel="stylesheet">
+	<link href="/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -28,8 +28,8 @@
 
 	{% for post in site.posts %}
 	<a href="{{ post.url | prepend: site.baseurl }}">
-		{% if post['Featured'] %}
-			<img src="{{ post['Featured'] }}" alt="{{ post.title }}">
+		{% if post['Featured image'] %}
+			<img src="{{ post['Featured image'] }}" alt="{{ post.title }}">
 		{% else %}
 		    <p>{{ post.title }}</p>
 		{% endif %}
