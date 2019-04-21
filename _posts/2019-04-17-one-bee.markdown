@@ -1,7 +1,7 @@
 ---
 title: One Bee
 date: 2019-04-17 16:33:00 Z
-Featured image: "/uploads/handled%20bee%20bag%20mockup1.jpg"
+Featured image: "/uploads/bee%20bag_mockup.jpg"
 ---
 
 ## Interactable Bag Design
