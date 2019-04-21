@@ -1,7 +1,7 @@
 ---
 title: Aud.Deco
 date: 2019-04-21 18:02:00 Z
-Feature Image: "/uploads/aud.deco-02.jpg"
+Featured image: "/uploads/aud.deco-02.jpg"
 ---
 
 ## Typeface \+ Font Release Posters
