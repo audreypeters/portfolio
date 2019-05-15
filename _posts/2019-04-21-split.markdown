@@ -1,8 +1,9 @@
 ---
 title: Split
 date: 2019-04-21 18:31:00 Z
+Feature Image: "/uploads/apeters_split_ad-02.jpg"
 ---
 
 ## Grocery List App
 
-Split is designed to make grocery shopping a less stressful task for everyone. This grocery list app will categorize items into departments and aisles according to the store layout. The app also has functions including scan-ability and voice dictation. Within settings the user can share the list, add more lists, star items to add them to their history, keep the list awake, add reminders, and change the theme and font size. With this multi-functional list app, the user can save time within the store, with the ability to navigate more quickly and eliminate the risk of forgetting items.
+Split is designed to make grocery shopping a less stressful task for everyone. This grocery list app will categorize items into departments and aisles according to the store layout. The app also has functions including scan-ability and voice dictation. Within settings the user can share the list, add more lists, star items to add them to their history, keep the list awake, add reminders, and change the theme and font size. With this multi-functional list app, the user can save time within the store, with the ability to navigate more quickly and eliminate the risk of forgetting items.![apeters_split_ad-02.jpg](/uploads/apeters_split_ad-02.jpg)![apeters_split_ad-01.jpg](/uploads/apeters_split_ad-01.jpg)![apeters_split_ad-03.jpg](/uploads/apeters_split_ad-03.jpg)![split_app-07.jpg](/uploads/split_app-07.jpg)![split_app-08.jpg](/uploads/split_app-08.jpg)
