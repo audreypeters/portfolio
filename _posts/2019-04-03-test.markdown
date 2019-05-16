@@ -1,7 +1,7 @@
 ---
 title: Band Benefit
 date: 2019-04-03 16:09:00 Z
-Featured image: "/uploads/brandbookcover.jpg"
+Featured image: "/uploads/bandbenefit_mockup-02.png"
 layout: post
 ---
 
@@ -11,6 +11,4 @@ layout: post
 
 Band Benefit is a radio station that puts all proceeds/donations towards charities. They are a professional, fun, family business, participating in events and music festivals. Band Benefit has an action plan of creating awareness of the good causes in the Niagara Region. The logo incorporates a headset which is a staple for the music industry. It is replicated throughout their branding assets, as seen on the buttons, the handle for the tote bag and a tab on the kit folder.
 
-![brandbookcover.jpg](/uploads/brandbookcover.jpg)![brandguidelines.jpg](/uploads/brandguidelines.jpg)
-
-## ![apeters_brandbook.pdf](/uploads/apeters_brandbook.pdf)![bandbenefit_mockup-03.jpg](/uploads/bandbenefit_mockup-03.jpg)![bandbenefit_mockup-02.jpg](/uploads/bandbenefit_mockup-02.jpg)![bandbenefit_mockup-04.jpg](/uploads/bandbenefit_mockup-04.jpg)
+## ![bandbenefit_mockup-03.jpg](/uploads/bandbenefit_mockup-03.jpg)![bandbenefit_mockup-02.jpg](/uploads/bandbenefit_mockup-02.jpg)![bandbenefit_mockup-04.jpg](/uploads/bandbenefit_mockup-04.jpg)
